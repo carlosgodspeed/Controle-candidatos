@@ -11,7 +11,7 @@ Simular um processo seletivo contendo:
 - Impressão de lista de candidatos
 - Análise de compatibilidade salarial
 
-## Funcionalidadess
+## Funcionalidades
 
 ### 📌 Seleção de Candidatos
 Seleciona candidatos cujo salário pretendido seja menor ou igual ao salário base definido.
